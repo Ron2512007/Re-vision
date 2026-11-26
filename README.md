@@ -1,4 +1,6 @@
-# Car or no car
+# Re-vision
+An Intelligent Computer Vision System for Vehicle and Pedestrian Detection Using Selective Image-Region Processing.
+
 
 This project classifies each input image as **Car** or **No car**.
 
@@ -42,3 +44,4 @@ py -3.13 setup_demo.py
 ```
 
 The trained model and measured results are saved in `results/car_classifier.xml` and `results/classification_metrics.json`. Prediction works offline.
+
